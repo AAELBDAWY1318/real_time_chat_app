@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942763636307",
+    "project_id": "watchclassic-18f30",
+    "storage_bucket": "watchclassic-18f30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942763636307:android:0b4764fe23e628ef20f8a6",
+        "android_client_info": {
+          "package_name": "com.example.real_time_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIpwatV7sPcRLLtWLPwV42IZPXrrcnSQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
